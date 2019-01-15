@@ -1,0 +1,34 @@
+
+# Falcon
+
+The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
+
+# Features
+- Dual stage flywheels using FTW flywheels
+- Single trigger design
+- Talon magazine compatibility
+- Ambidextrous thumb actuated magazine release
+
+# Required Parts
+
+|Part             |Quantity  |Description                                                 |
+|-----------------|----------|------------------------------------------------------------|
+|MTB Honeybadgers |4         |Flywheel Motors                                             |
+|FTW Flywheels    |2         |Two sets of flywheels [Purchase link](https://blogderrikksun.com/product/mini-flywheels-set-for-pigeon-and-other-ftw-blasters/)                                                   |
+|Heat set threaded inserts| 8 | To hold in screws (McMaster 94180A333 for 100)            |
+|Compression Spring       | 1 | For magazine release (McMaster 9657K266 for 6)            |
+|Extension Spring         | 1 | For trigger (McMaster 9654K971 for 12)                    |
+|M3x10 Socket head screws | 6 | For attaching all other parts                             |
+|M3x14 Socket head screw  | 2 | For attaching PusherMount to lower receiver               |
+|M2x4 screws              | 8 | For motors                                                |
+
+# Printing Parameters
+Prototypes were printed using these parameters:
+- PLA
+- 300 micron layer height
+- .4mm nozzle
+- No supports
+
+# Contributing
+The project was designed using Fusion 360, under their hobbyist license. After updating the design, export the changed STEP and STL files and use software like MeshMixer or 3D Builder to orient the STLs for printing. 
+
