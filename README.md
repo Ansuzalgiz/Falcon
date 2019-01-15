@@ -13,8 +13,9 @@ The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
 
 |Part             |Quantity  |Description                                                 |
 |-----------------|----------|------------------------------------------------------------|
-|MTB Honeybadgers |4         |Flywheel Motors                                             |
+|MTB Honeybadgers |4         |Flywheel Motors [Purchase link](https://outofdarts.com/collections/motors/products/mtb-honey-badger-130-motor-for-nerf-blasters)                                            |
 |FTW Flywheels    |2         |Two sets of flywheels [Purchase link](https://blogderrikksun.com/product/mini-flywheels-set-for-pigeon-and-other-ftw-blasters/)                                                   |
+|21A Microswitch  |1         |Flywheel switch [Purchase link](https://outofdarts.com/collections/parts/products/21a-microswitch-button-clone)|
 |Heat set threaded inserts| 8 | To hold in screws (McMaster 94180A333 for 100)            |
 |Compression Spring       | 1 | For magazine release (McMaster 9657K266 for 6)            |
 |Extension Spring         | 1 | For trigger (McMaster 9654K971 for 12)                    |
