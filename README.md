@@ -18,9 +18,10 @@ The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
 |Heat set threaded inserts| 8 | To hold in screws (McMaster 94180A333 for 100)            |
 |Compression Spring       | 1 | For magazine release (McMaster 9657K266 for 6)            |
 |Extension Spring         | 1 | For trigger (McMaster 9654K971 for 12)                    |
-|M3x10 Socket head screws | 6 | For attaching all other parts                             |
 |M3x14 Socket head screw  | 2 | For attaching PusherMount to lower receiver               |
+|M3x10 Socket head screws | 6 | For attaching all other parts                             |
 |M2x4 screws              | 8 | For motors                                                |
+|Silicone grease          |   | For trigger mechanism                                     |
 
 # Printing Parameters
 Prototypes were printed using these parameters:
