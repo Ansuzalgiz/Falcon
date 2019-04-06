@@ -32,6 +32,7 @@ The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
 |M2x4 screws              | 8 | For motors                                                |
 |Silicone grease          |   | For trigger mechanism                                     |
 |M5x.08 tap               | 1 | For finishing the HOLDster top cover for screwing in the Fidlock magnets |
+|HOLDster Fidlock magnets | 1 pair | For HOLDster support [Purchase link](https://outofdarts.com/products/holdster-magnets)| 
 
 # Printing Parameters
 Prototypes were printed using these parameters:
