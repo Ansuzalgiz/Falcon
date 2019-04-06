@@ -8,6 +8,7 @@ The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
 - Single trigger design
 - Talon magazine compatibility
 - Ambidextrous thumb actuated magazine release
+- Optional builtin HOLDster mount
 
 # Video Review
 
@@ -30,6 +31,7 @@ The Falcon is a 3D printed semiautomatic Nerf pistol using Talon magazines.
 |M3x10 Socket head screws | 6 | For attaching all other parts                             |
 |M2x4 screws              | 8 | For motors                                                |
 |Silicone grease          |   | For trigger mechanism                                     |
+|M5x.08 tap               | 1 | For finishing the HOLDster top cover for screwing in the Fidlock magnets |
 
 # Printing Parameters
 Prototypes were printed using these parameters:
